@@ -1,6 +1,6 @@
 # Can I hack database
 
-The database powering [can I hack](http://hyperspatial-spatulas.r14.railsrumble.com/).
+The database powering "[can I hack](http://hyperspatial-spatulas.r14.railsrumble.com/)".
 
 ## Format
 
