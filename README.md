@@ -1,6 +1,6 @@
 # Can I hack database
 
-The database powering "[can I hack](http://canihack.info).
+The database powering "[can I hack](http://canihack.info)".
 
 ## Contribute
 
