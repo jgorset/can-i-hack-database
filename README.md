@@ -25,6 +25,12 @@ The database powering "[can I hack](http://hyperspatial-spatulas.r14.railsrumble
 }
 ```
 
+## Contribute
+
+* Fork [the repository](http://github.com/jgorset/facepy>).
+* Do your thing.
+* Send a pull request and bug me until I merge it!
+
 ## I love you
 
 Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset>) if you can't get it
