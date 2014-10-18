@@ -1,0 +1,70 @@
+{
+  "name": "WordPress",
+  "versions": [
+    "4.0", "3.9.2", "3.9.1", "3.9", "3.8.4", "3.8.3", "3.8.2", "3.8.1", "3.8", "3.7.4",
+    "3.7.3", "3.7.2", "3.7.1", "3.7", "3.6.1", "3.6.0", "3.5.2", "3.5.1", "3.5",
+    "3.4.2", "3.4.1", "3.4", "3.3.3", "3.3.2", "3.3.1", "3.3", "3.2.1", "3.2",
+    "3.1.4", "3.1.3", "3.1.2", "3.1.1", "3.1", "3.0.5", "3.0.4", "3.0.3", "3.0.2",
+    "3.0.1", "3.0"
+  ],
+  "vulnerabilities": [
+    {
+      "name": "CVE-2014-5266",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5266/",
+      "versions": [
+        ["< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-5265",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5265/",
+      "versions": [
+        ["< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-5240",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5240/",
+      "versions": [
+        ["< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-5205",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5205/",
+      "versions": [
+        ["< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-5204",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5204/",
+      "versions": [
+        ["< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-5203",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-5203/",
+      "versions": [
+        [">= 3.9", "< 3.9.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-0166",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-0166/",
+      "versions": [
+        ["< 3.7.2"],
+        [">= 3.8", "< 3.8.2"]
+      ]
+    },
+    {
+      "name": "CVE-2014-0165",
+      "link": "http://www.cvedetails.com/cve/CVE-2014-0165/",
+      "versions": [
+        ["< 3.7.2"],
+        [">= 3.8", "< 3.8.2"]
+      ]
+    }
+  ]
+}
