@@ -1,4 +1,6 @@
-# Can I hack ...? Database
+# Can I hack database
+
+The database powering [can I hack](http://hyperspatial-spatulas.r14.railsrumble.com/).
 
 ## Format
 
@@ -22,3 +24,8 @@
   ]
 }
 ```
+
+## I love you
+
+Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset>) if you can't get it
+to work. In fact, you should tweet me anyway.
